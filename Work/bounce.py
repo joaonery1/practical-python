@@ -2,8 +2,6 @@
 # A rubber ball is dropped from a height of 100 meters
 # bounce 3/5 height
 #
-
-
 # Exercise 1.5
 
 
